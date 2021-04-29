@@ -11,7 +11,7 @@ p { font-family: Gentium, serif; }
 
 html{
 	background-color: #fffcf2;
-	margin: auto;
+	margin: auto; background-size: cover;
 }
 
 body{
